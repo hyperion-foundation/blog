@@ -1,7 +1,6 @@
 /** @jsx h */
 
 import blog, { ga, redirects, h } from "blog";
-// import version from ""
 
 blog({
   title: "Hyperion Foundation Blog",
