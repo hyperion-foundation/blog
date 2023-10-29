@@ -18,7 +18,7 @@ blog({
   avatarClass: "rounded-full",
   author: "Hyperion Staff",
   links: [
-    { title: "Website", url: "https://www.hyperfoundation.my.id"},
+    { title: "Website", url: "https://www.hyperfoundation.xyz"},
     { title: "GitHub", url: "https://github.com/hyperion-foundation"},
     { title: "Discord", url: "https://discord.gg/4U4k6bW" }
   ],
@@ -26,6 +26,7 @@ blog({
     ga("G-JRZG4MQ08M"),
     redirects({
      "/welcome.html": "/welcome",
+     "/domain-update.html": "/domain-update"
     }),
   ]
 });
