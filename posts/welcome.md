@@ -3,7 +3,7 @@ title: Welcome
 publish_date: 2023-08-08
 ---
 
-Hello, Hyperion members and visitors!
+Hello, Hyperion Foundation members and visitors!
 
 Welcome to our blog! The first blog website was suspended because we used a CMS (Content Management System) called [Ghost](https://ghost.org). Ghost CMS requires several components such as a server to host the website and a database server. 
 
