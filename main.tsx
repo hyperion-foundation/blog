@@ -26,7 +26,8 @@ blog({
     ga("G-JRZG4MQ08M"),
     redirects({
      "/welcome.html": "/welcome",
-     "/domain-update.html": "/domain-update"
+     "/domain-update.html": "/domain-update",
+     "/minecraft-linux-tutorial-1.html": "/minecraft-linux-tutorial-1"
     }),
   ]
 });
