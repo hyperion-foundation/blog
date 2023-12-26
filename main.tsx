@@ -4,7 +4,7 @@ import blog, { ga, redirects, h } from "blog";
 
 blog({
   title: "Hyperion Foundation Blog",
-  description: "Tutorials, etc",
+  description: "Tutorials, News, etc",
   favicon: "./src/img/hyperion-favicon.png",
   lang: "en",
   dateFormat: (date) => 
@@ -16,7 +16,7 @@ blog({
       </span></p></footer>,
   avatar: "./src/img/hyperion-logo-512.png",
   avatarClass: "rounded-full",
-  author: "Hyperion Staff",
+  author: "Hyperion Foundation Staff",
   links: [
     { title: "Website", url: "https://www.hyperfoundation.xyz"},
     { title: "GitHub", url: "https://github.com/hyperion-foundation"},
