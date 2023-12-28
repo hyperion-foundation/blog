@@ -1,5 +1,5 @@
 ---
-title: How to install a Minecraft server on Ubuntu/Debian - Part 2
+title: How to host a Minecraft server on Ubuntu/Debian - Part 2
 publish_date: 2023-12-27
 ---
 
