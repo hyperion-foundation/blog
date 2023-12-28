@@ -3,6 +3,8 @@ title: How to install a Minecraft server on Ubuntu/Debian - Part 1
 publish_date: 2023-12-26
 ---
 
+Hello!
+
 In this post, we want to give you a tutorial about how to install a Minecraft server on Ubuntu/Debian. This tutorial is about **Minecraft: Java Edition**, not the **Bedrock Edition**.
 
 First, you need a Ubuntu/Debian server (*of course*). You can order a virtual machine from [DigitalOcean](https://www.digitalocean.com/?refcode=83d8f1ab6d04&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge). For  the operating system, you can use **Ubuntu 22.04 LTS (Jammy Jellyfish)** or **Debian 11 (Bullseye)**.
