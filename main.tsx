@@ -27,7 +27,8 @@ blog({
     redirects({
      "/welcome.html": "/welcome",
      "/domain-update.html": "/domain-update",
-     "/minecraft-linux-tutorial-1.html": "/minecraft-linux-tutorial-1"
+     "/minecraft-linux-tutorial-1.html": "/minecraft-linux-tutorial-1",
+     "/minecraft-linux-tutorial-2.html": "/minecraft-linux-tutorial-2"
     }),
   ]
 });
