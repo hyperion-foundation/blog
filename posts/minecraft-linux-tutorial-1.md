@@ -9,7 +9,7 @@ In this post, we want to give you a tutorial about how to host a Minecraft serve
 
 First, you need a Ubuntu/Debian server (*of course*). You can order a virtual machine from [DigitalOcean](https://www.digitalocean.com/?refcode=83d8f1ab6d04&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge). For  the operating system, you can use **Ubuntu 22.04 LTS (Jammy Jellyfish)** or **Debian 11 (Bullseye)**.
 
-> Please note, your server must have at least **6 GB** of RAM. If your server has **4 GB** of RAM or lower, you still can follow this tutorial, but your Minecraft server will not run so smoothly and we don't recommend it. We recommend you to have **6 GB** of RAM or more.
+> *Please note, your server must have at least* ***6 GB*** *of RAM. If your server has* ***4 GB*** *of RAM or lower, you still can follow this tutorial, but your Minecraft server will not run so smoothly and we don't recommend it. We recommend you to have* ***6 GB*** *of RAM or more.*
 
 Second, you should connect to your server through SSH. You can use [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) or [Termius](https://termius.com/). After you connecting to your server, you must at least have 1 user that has **sudo** power/permission. If you don't know how to do it, you can create one user by following command:
 
@@ -35,11 +35,11 @@ Example:
 usermod -aG sudo sleepnov4
 ```
 
-> Please note, to give the **sudo** permission, it must done by using **root** user account.
+> *Please note, to give the* ***sudo*** *permission, it must done by using* ***root*** *user account.*
 
 We assume if you are currently using the **root** user account, and you should change to your fresh created user account. You can run this command: 
 
-> As for security purposes, we don't recommend you to use the **root** user account for other activity than this. To give a **sudo** permission to your user account, it requires **root** user account.
+> *As for security purposes, we don't recommend you to use the* ***root*** *user account for other activity than this. To give a* ***sudo*** *permission to your user account, it requires* ***root*** *user account.*
 
 ```shell
 su <your name>
@@ -64,7 +64,7 @@ Third, you will need a **Java Development Kit** or **JDK** for short.
 Since we are about to run a **Minecraft: Java Edition** server, you will need this to run your Minecraft server.
 Now, please run these commands in order: 
 
-> You are about to install a JDK version **17** from [Eclipse Adoptium](https://adoptium.net). If you don't want to install the JDK from this organization, you can install the JDK from [Azul Zulu](https://www.azul.com) or [Amazon Correto](https://aws.amazon.com/corretto).
+> *You are about to install a JDK version* ***17*** *from [Eclipse Adoptium](https://adoptium.net). If you don't want to install the JDK from this organization, you can install the JDK from [Azul Zulu](https://www.azul.com) or [Amazon Correto](https://aws.amazon.com/corretto).*
 
 ```shell
 sudo apt install -y wget apt-transport-https
