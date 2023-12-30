@@ -54,7 +54,7 @@ su sleepnov4
 Now, your currently using your fresh created user account, and you can run this command: 
 
 ```shell
-sudo apt update && sudo apt upgrade
+sudo apt update && sudo apt upgrade -y
 ```
 
 This command will fetch and update all necessary packages to the latest version.
@@ -76,7 +76,7 @@ After you done run those commmands, now, you run these command in order too:
 
 ```shell
 sudo apt update
-sudo apt install temurin-17-jdk
+sudo apt install temurin-17-jdk -y
 ```
 
 To check if your JDK already installed or not, you can run this command: 
