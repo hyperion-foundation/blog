@@ -5,7 +5,7 @@ publish_date: 2024-1-2
 
 Hello!
 
-In this post, we want to share some updates about our Statuspage. Today, we did some enhancements to our statuspage. Our statuspage has been moved. The previous statuspage was hosted by using [Atlassian](https://www.atlassian.com/software/statuspage) service, and we are using [Instatus](https://instatus.com) service.
+In this post, we want to share some updates about our Statuspage. Today, we did some enhancements to our statuspage. Our statuspage has been moved out. The previous statuspage was hosted by using [Atlassian](https://www.atlassian.com/software/statuspage) service, and now we are using [Instatus](https://instatus.com) service.
 
 Why we use **Instatus** service to host the statuspage?
 - We think **Instatus** has more features than the **Atlassian Statuspage**. So, we decide to use **Instatus** to host our statuspage.
