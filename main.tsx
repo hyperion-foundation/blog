@@ -20,6 +20,7 @@ blog({
   links: [
     { title: "Website", url: "https://www.hyperfoundation.xyz"},
     { title: "GitHub", url: "https://github.com/hyperion-foundation"},
+    { title: "Statuspage", url: "https://hyperionfoundation.instatus.com" },
     { title: "Discord", url: "https://discord.gg/4U4k6bW" }
   ],
   middlewares: [
