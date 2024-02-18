@@ -1,6 +1,6 @@
 ---
 title: Statuspage Update
-publish_date: 2024-1-2
+publish_date: 2024-01-02
 ---
 
 Hello!
